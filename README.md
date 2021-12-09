@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
- <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mesquitaoliveira/profile-card?style=for-the-badge">
+ <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mesquitaoliveira/profile-card-vue3?style=for-the-badge">
  <img alt="GitHub forks" src="https://img.shields.io/github/forks/mesquitaoliveira/profile-card?style=for-the-badge">
  
  <img alt="GitHub" src="https://img.shields.io/github/license/mesquitaoliveira/profile-card?style=for-the-badge">
