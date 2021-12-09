@@ -10,7 +10,7 @@
  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mesquitaoliveira/profile-card-vue3?style=for-the-badge">
  <img alt="GitHub forks" src="https://img.shields.io/github/forks/mesquitaoliveira/profile-card-vue3?style=for-the-badge">
  
- <img alt="GitHub" src="https://img.shields.io/github/license/mesquitaoliveira/profile-card-vue3?style=for-the-badge">
+ <img alt="GitHub" src="https://img.shields.io/github/license/mesquitaoliveira/profile-card?style=for-the-badge">
 
 </p>
 
