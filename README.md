@@ -3,10 +3,8 @@
 
 
 <p align=center>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-" alt="Vuejs">
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
-" alt="replit">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vuejs">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mesquitaoliveira/profile-card?style=for-the-badge">
@@ -18,7 +16,7 @@
 
 ---
 <p align="center">
-  <img src="./assets/demo.gif"
+  <img src="https://github.com/mesquitaoliveira/profile-card-vue3/blob/profile-card-vue3/src/assets/demo.gif"
     alt="screenshot" width="100%">
 </p>
 
